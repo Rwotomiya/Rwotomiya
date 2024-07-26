@@ -1,8 +1,10 @@
-# Hi there, I'm Rwotomiya Daudi Vincent 👋
+# Apwoyo ba, I'm Rwotomiya Daudi Vincent 👋
 
 ## About Me
 
-I'm passionate about Afro and reggae music and keen to develop innovative applications. My latest project is an app allowing users to download videos from social media platforms seamlessly.
+🚀I'm passionate about Afro and reggae music but I also welcome new music tastes and am keen to develop innovative applications that help in solving real-world problems in our society. 
+👩🏿‍💻My passion for tech runs deep as I have also loved to work on projects with  my mates and debugging is one of my expertise in the development world meaning working long ain't a problem.  
+My latest project is an app allowing users to download videos from social media platforms seamlessly.
 
 ## Projects
 
@@ -26,7 +28,7 @@ I'm passionate about Afro and reggae music and keen to develop innovative applic
 
 ## Contact
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com) or via [email](mailto:your-email@example.com).
+Feel free to reach out to me on [X](https://www.linkedin.com) or via [email](mailto:your-email@example.com).
 
 ---
 
