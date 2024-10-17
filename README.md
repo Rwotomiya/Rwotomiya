@@ -32,8 +32,8 @@ Feel free to reach out to me on [X](https://x.com/daudivince20) or via [email](d
 ---
 ## 📈 GitHub Stats:
 
-![Kubomu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kubomu&show_icons=true&theme=dark)
+![Rwotomiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rwotomiya&show_icons=true&theme=dark)
 
-![Kubomu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kubomu&layout=compact&theme=dark)
+![Rwotomiya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rwotomiya&layout=compact&theme=dark)
 
 ![Profile views](https://gpvc.arturio.dev/your-github-username)
