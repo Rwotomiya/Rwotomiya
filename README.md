@@ -1,13 +1,12 @@
 # Apwoyo ba, I'm Rwotomiya Daudi Vincent 👋
 
+Welcome to my GitHub repository! I'm a software developer working on various exciting projects. Below is a summary of my ongoing work with the tech stack used.
+
 ## About Me
 
 🚀I'm passionate about Afro and reggae music but I also welcome new music tastes and am keen to develop innovative applications that help in solving real-world problems in our society. 
 👩🏿‍💻My passion for tech runs deep as I have also loved to work on projects with  my mates and debugging is one of my expertise in the development world meaning working long ain't a problem.  
 My latest project is an app allowing users to download videos from social media platforms seamlessly.
-# Rwotomiya Daudi Vincent's Projects
-
-Welcome to my GitHub repository! I'm a software developer working on various exciting projects. Below is a summary of my ongoing work with the tech stack used.
 
 ## Projects
 
