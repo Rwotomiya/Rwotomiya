@@ -30,5 +30,10 @@ My latest project is an app allowing users to download videos from social media 
 Feel free to reach out to me on [X](https://x.com/daudivince20) or via [email](daudivincent20@gmail.com).
 
 ---
+## 📈 GitHub Stats:
+
+![Kubomu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kubomu&show_icons=true&theme=dark)
+
+![Kubomu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kubomu&layout=compact&theme=dark)
 
 ![Profile views](https://gpvc.arturio.dev/your-github-username)
