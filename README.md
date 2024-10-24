@@ -56,4 +56,4 @@ Feel free to reach out to me on [X](https://x.com/daudivince20) or via [email](d
 
 ![Rwotomiya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rwotomiya&layout=compact&theme=dark)
 
-![Profile views](https://gpvc.arturio.dev/your-github-Rwotomiya)
+![Profile views](https://gpvc.arturio.dev/Rwotomiya)
