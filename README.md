@@ -9,10 +9,9 @@ Welcome to my GitHub repository! I'm a software developer working on various exc
 My latest project is an app allowing users to download videos from social media platforms seamlessly.
 
 ## Projects
-
-### 1. **Inventory Management System**
-- **Tech Stack**: Django (Python), PHP (MySQL)
-- A comprehensive system for tracking stock levels, supplier information, and purchase orders. Includes user authentication, authorization, and a streamlined user interface. The project is implemented using both Django and PHP to explore different technologies and offer flexibility in deployment.
+### 1. **Wi-Fi Ticketing System**  
+- **Tech Stack**: FastAPI (Python), React (JavaScript), PostgreSQL, Jinja2  
+- The Wi-Fi Ticketing System is a web-based solution for managing internet access through ticket generation and validation. Users can purchase Wi-Fi tickets online, and the system ensures secure authentication and efficient ticket usage tracking. Future updates will include advanced analytics for usage monitoring and seamless integration with additional payment gateways.
 
 ### 2. **MarketMingle**
 - **Tech Stack**: Next.js, Django (Python), PostgreSQL, Hasura
