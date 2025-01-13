@@ -1,6 +1,6 @@
 # Apwoyo ba, I'm Rwotomiya Daudi Vincent 👋
 
-Welcome to my GitHub repository! I'm a software Engineer working on various exciting projects. Below is a summary of my ongoing work with the tech stack used.
+Welcome to my GitHub repository! I'm a Software Engineer working on various exciting projects. Below is a summary of my ongoing work with the tech stack used.
 
 ## About Me
 
