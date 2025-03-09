@@ -1,58 +1,85 @@
 # Apwoyo ba, I'm Rwotomiya Daudi Vincent 👋
 
-Welcome to my GitHub repository! I'm a FullStack Software Engineer working on various exciting projects. Below is a summary of my ongoing work with the tech stack used.
+Welcome to my GitHub repository! I'm a FullStack Software Engineer passionate about building innovative solutions to real-world problems. Below is a summary of my ongoing work, tech stack, and future aspirations.
 
 ## About Me
 
-🚀I'm passionate about Afro and reggae music but I also welcome new music tastes and am keen to develop innovative applications that help in solving real-world problems in our society. 
-👩🏿‍💻My passion for tech runs deep as I have also loved to work on projects with  my mates and debugging is one of my expertise in the development world meaning working long ain't a problem.  
-My latest project is an app allowing users to download videos from social media platforms seamlessly.
+🚀 I'm passionate about Afro and reggae music, but I'm always open to exploring new genres. My love for tech drives me to develop applications that make a meaningful impact on society.  
+👩🏿‍💻 I thrive on collaboration, enjoy debugging challenges, and am comfortable working long hours to deliver high-quality solutions.  
+🌐 As of 2025, I'm actively working on AI-powered data analytics, blockchain, and Web3 applications, along with automation tools for businesses.  
 
 ## Projects
-### 1. **Wi-Fi Ticketing System**  
-- **Tech Stack**: FastAPI (Python), React (JavaScript), PostgreSQL, Jinja2  
-- The Wi-Fi Ticketing System is a web-based solution for managing internet access through ticket generation and validation. Users can purchase Wi-Fi tickets online, and the system ensures secure authentication and efficient ticket usage tracking. Future updates will include advanced analytics for usage monitoring and seamless integration with additional payment gateways.
 
-### 2. **MarketMingle**
-- **Tech Stack**: Next.js, Django (Python), PostgreSQL, Hasura
-- MarketMingle is a platform that connects market vendors, investors, and customers. It allows users to view local produce prices, search for vendors, and chat with them directly. The platform will integrate digital payment solutions in future updates to support seamless transactions.
+### 1. **Wi-Fi Ticketing System**  
+- **Tech Stack**: Django (Python), React, PostgreSQL, Jinja2  
+- **Description**: A web-based solution for managing internet access through ticket generation and validation. Users can purchase Wi-Fi tickets online, and the system ensures secure authentication and efficient ticket usage tracking.  
+- **Recent Updates**: Integrated a payment gateway for seamless online transactions.  
+- **Future Plans**: Expand to support mobile payments and crypto transactions.
+
+### 2. **MarketMingle**  
+- **Tech Stack**: Next.js, Django, PostgreSQL, Hasura  
+- **Description**: A platform connecting market vendors, investors, and customers. Users can view local produce prices, search for vendors, and chat directly.  
+- **Recent Updates**: Implemented real-time chat using WebSockets.  
+- **Future Plans**: Add AI-driven price prediction models and digital payment solutions.
+
+### 3. **Bus Ticketing System** *(New Project)*  
+- **Tech Stack**: Django REST Framework, React, PostgreSQL  
+- **Description**: A digital platform for booking bus tickets online, reducing the need to visit stations.  
+- **Future Plans**: Implement seat selection, real-time booking confirmation, and a mobile app version.
+
+### 4. **Point of Sale (POS) System**  
+- **Tech Stack**: Django, SQLite (for offline support), React  
+- **Description**: A POS system designed for small businesses to track sales, manage inventory, and generate reports.  
+- **Future Plans**: Develop a desktop application for offline functionality and integrate AI-powered sales insights.
+
+### 5. **Web3 Blockchain App** *(Upcoming)*  
+- **Tech Stack**: Polygon, Django, React  
+- **Description**: A decentralized Web3 platform where nodes are operated by my team and me.  
+- **Future Plans**: Expand the blockchain network and introduce smart contracts for automated transactions.
 
 ## Tech Stack
 
+- **Languages**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-- **Frameworks**: ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-- **Databases**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- **Tools**: ![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white)   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **Frameworks**:  
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+
+- **Databases**:  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+
+- **Tools**:  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
 
 ## Future Plans
-- Expanding MarketMingle to include online transactions.
-- Improving the Inventory Management System with more advanced user roles and reporting features.
 
-Feel free to explore the repositories and reach out if you have any questions or suggestions!
-
-
-## Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- **MarketMingle**: Expand to support AI-driven vendor analytics and digital transactions.  
+- **Wi-Fi Ticketing System**: Develop mobile apps (React Native) for better accessibility.  
+- **AI & Blockchain**: Explore machine learning models for predictive analytics and deepen involvement in Web3 applications.  
+- **Open Source Contributions**: Increase contributions to Afro-tech projects and developer tools.
 
 ## Contact
 
-Feel free to reach out to me on [X](https://x.com/daudivince20) or via [email](daudivincent20@gmail.com).
+Feel free to reach out to me on:  
+📩 [Email](mailto:daudivincent20@gmail.com)  
+🐦 [X (formerly Twitter)](https://x.com/daudivince20)  
+💼 [LinkedIn](https://www.linkedin.com/in/rwotomiya-daudi-vincent) *(Consider adding this if applicable)*  
 
 ---
-## 📈 GitHub Stats:
 
-![Rwotomiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rwotomiya&show_icons=true&theme=dark)
+## 📊 GitHub Stats
 
-![Rwotomiya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rwotomiya&layout=compact&theme=dark)
+![Rwotomiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rwotomiya&show_icons=true&theme=dark)  
+![Rwotomiya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rwotomiya&layout=compact&theme=dark)  
+![Profile Views](https://komarev.com/ghpvc/?username=Rwotomiya&color=blueviolet)  
 
-![Profile views](https://Rwotomiya)
