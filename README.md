@@ -71,9 +71,9 @@ Welcome to my GitHub repository! I'm a FullStack Software Engineer passionate ab
 ## Contact
 
 Feel free to reach out to me on:  
-📩 [Email](mailto:daudivincent20@gmail.com)  
+📩 [Email](mailto:daudi@cruze-tech.com)  
 🐦 [X (formerly Twitter)](https://x.com/daudivince20)  
-💼 [LinkedIn](https://www.linkedin.com/in/rwotomiya-daudi-vincent) *(Consider adding this if applicable)*  
+💼 [LinkedIn](https://www.linkedin.com/in/rwotomiya-daudi-vincent) 
 
 ---
 
